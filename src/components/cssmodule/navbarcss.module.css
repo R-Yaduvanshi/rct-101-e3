@@ -1,0 +1,7 @@
+.head {
+  width: 100%;
+  border: 1px solid black;
+  height: 60px;
+  /* display: flex;
+  justify-content: space-between; */
+}
